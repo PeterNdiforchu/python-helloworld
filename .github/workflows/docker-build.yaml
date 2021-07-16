@@ -44,4 +44,4 @@ jobs:
           file: ./Dockerfile
           platforms: linux/amd64
           push: true
-          tags: peteclouddeveloper23/python-helloworld:latest
+          tags: peteclouddeveloper23/python-helloworld:v.2.0.0
